@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Giovanna 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+modern+web+experiences;Learning+React+and+Vue.js;Turning+ideas+into+interfaces;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1500&color=6C63FF&center=true&vCenter=true&width=700&lines=Front-End+Developer" />
 </p>
 
 ## About me
