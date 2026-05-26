@@ -1,16 +1,23 @@
-## Hi there 👋
+# Giovanna Lacerda
 
-<!--
-**giolacerda/giolacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Developer in progress.
 
-Here are some ideas to get you started:
+Building modern, responsive and user-focused web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- Studying JavaScript, React and Vue.js
+- Passionate about web development
+- Constantly building projects and improving my skills
+- Looking for my first opportunity in technology
+
+## Tech Stack
+
+HTML • CSS • JavaScript • Git • GitHub • React • Vue.js
+
+## Current Focus
+
+- Component-based development
+- Front-end best practices
+- Responsive interfaces
+- Clean and maintainable code
