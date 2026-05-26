@@ -1,8 +1,8 @@
-# Giovanna Lacerda
+<h1 align="center">Hi, I'm Giovanna 👋</h1>
 
-Front-end Developer in progress.
-
-Building modern, responsive and user-focused web applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+modern+web+experiences;Learning+React+and+Vue.js;Turning+ideas+into+interfaces;Always+learning+something+new" />
+</p>
 
 ## About me
 
