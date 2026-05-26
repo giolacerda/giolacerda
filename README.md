@@ -1,23 +1,91 @@
-<h1 align="center">Hi, I'm Giovanna 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1500&color=6C63FF&center=true&vCenter=true&width=700&lines=Front-End+Developer" />
-</p>
+# Giovanna Lacerda
 
-## About me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1500&color=6C63FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Building+modern+web+experiences;Learning+by+building;Always+evolving" />
 
-- Studying JavaScript, React and Vue.js
-- Passionate about web development
-- Constantly building projects and improving my skills
-- Looking for my first opportunity in technology
+<br>
 
-## Tech Stack
+Building clean, responsive and user-focused web applications.
 
-HTML • CSS • JavaScript • Git • GitHub • React • Vue.js
+</div>
+
+---
+
+## About Me
+
+I'm a Front-End Developer focused on creating modern, intuitive and responsive interfaces.
+
+Currently improving my skills in JavaScript, React and Vue.js through practical projects, continuous learning and hands-on experience.
+
+I believe the best way to learn is by building.
+
+---
 
 ## Current Focus
 
-- Component-based development
-- Front-end best practices
-- Responsive interfaces
-- Clean and maintainable code
+```javascript
+const giovanna = {
+  role: "Front-End Developer",
+  learning: ["React", "Vue.js"],
+  interests: [
+    "UI Development",
+    "Responsive Design",
+    "Web Performance",
+    "Clean Code"
+  ],
+  mindset: "Learning by building"
+};
+```
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,react,vue,vscode" />
+
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=giolacerda&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giolacerda&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Featured Projects
+
+- Interactive Quiz Application
+- Random Color Generator
+- BMI Calculator
+- React Forms
+- Vue.js Projects
+
+---
+
+## Philosophy
+
+> Great interfaces are not just built.
+>
+> They are crafted with attention to detail, usability and purpose.
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+<a href="https://www.linkedin.com">
+LinkedIn
+</a>
+
+</div>
