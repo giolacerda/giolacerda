@@ -53,11 +53,11 @@ const giovanna = {
 
 ## Featured Projects
 
-- Interactive Quiz Application
-- Random Color Generator
+- UrbanStyle
+- MotivateMore
 - BMI Calculator
-- React Forms
-- Vue.js Projects
+- Registration Dashboard
+
 
 ---
 
