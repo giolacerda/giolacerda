@@ -57,6 +57,7 @@ const giovanna = {
 - MotivateMore
 - BMI Calculator
 - Registration Dashboard
+- Statistical Dashboard
 
 
 ---
