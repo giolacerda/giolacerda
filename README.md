@@ -16,7 +16,7 @@ Building clean, responsive and user-focused web applications.
 
 I'm a Front-End Developer focused on creating modern, intuitive and responsive interfaces.
 
-Currently improving my skills in JavaScript, React and Vue.js through practical projects, continuous learning and hands-on experience.
+Currently improving my skills in JavaScript, React  through practical projects, continuous learning and hands-on experience.
 
 I believe the best way to learn is by building.
 
@@ -27,7 +27,7 @@ I believe the best way to learn is by building.
 ```javascript
 const giovanna = {
   role: "Front-End Developer",
-  learning: ["React", "Vue.js"],
+  learning: ["React"],
   interests: [
     "UI Development",
     "Responsive Design",
