@@ -44,7 +44,7 @@ const giovanna = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,react,vue,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,react,vscode" />
 
 </p>
 
